@@ -1,0 +1,5 @@
+The ONNX exports of Whisper (*-encoder.int8.onnx, *-decoder.int8.onnx, *-tokens.txt)
+were produced by the sherpa-onnx project (https://github.com/k2-fsa/sherpa-onnx),
+licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
+Original files: https://huggingface.co/csukuangfj/sherpa-onnx-whisper-tiny and
+https://huggingface.co/csukuangfj/sherpa-onnx-whisper-base. Files are redistributed unchanged.
